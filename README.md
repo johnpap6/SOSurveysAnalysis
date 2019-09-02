@@ -26,6 +26,10 @@ The following files are contained in this repository:
 - developer_survey_2017.zip : Zip file containg the StackOverflow survey results from 2017
 - developer_survey_2018.zip : Zip file containg the StackOverflow survey results from 2018
 - developer_survey_2019.zip : Zip file containg the StackOverflow survey results from 2019
+
+## Blog post
+A Medium post describing the key takeaways and the motivation for this project can be found here:
+https://medium.com/@kremmydosporos/is-working-remotely-going-to-make-you-happier-and-other-insights-from-stackoverflow-surveys-d333b6e0227a
     
 ## Acknowledgements
 The survey data analyzed here were provided by StackOverflow (https://insights.stackoverflow.com/survey).
